@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[255],{4255:(e,n,s)=>{s.r(n),s.d(n,{default:()=>u});const t={setup:function(){}};const u=(0,s(3744).Z)(t,[["render",function(e,n,s,t,u,c){return"Tabla de personas"}]])}}]);

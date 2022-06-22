@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[814],{3814:(e,s,u)=>{u.r(s),u.d(s,{default:()=>r});const n={},r=(0,u(3744).Z)(n,[["render",function(e,s){return"No me digas eso papu"}]])}}]);
