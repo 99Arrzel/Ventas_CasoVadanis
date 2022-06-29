@@ -35,4 +35,7 @@ y
 
 npm run production
 
-Listo, eso es todo 👍
+Listo, eso es todo, solo queda servirlo, podes usar xampp o el comando
+
+php artisan serve
+
