@@ -1,4 +1,4 @@
-#Cómo instalar
+## Cómo instalar
 
 Primero necesitas tener 3 cosas.
 1.- MySQL 
